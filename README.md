@@ -13,6 +13,8 @@ A full-stack web application for managing customers, invoices, and transactions 
 - [API Endpoints](#api-endpoints)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
+- [Configuration Options](#configuration-options)
+- [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
 
 ## ✨ Features
@@ -243,4 +245,4 @@ For support or questions, please open an issue in the repository or contact the 
 
 ---
 
-
+**Happy coding! 🚀**
