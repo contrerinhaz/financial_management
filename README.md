@@ -147,32 +147,6 @@ curl -X POST http://localhost:3005/customers \\
 curl http://localhost:3005/customers
 \`\`\`
 
-## 📁 Project Structure
-
-
-financial-management-system/
-├── server/
-│   ├── db/
-│   │   └── connection.js          # Database connection configuration
-│   ├── data/
-│   │   ├── 01_customers.csv       # Sample customer data
-│   │   ├── 02_transactions.csv    # Sample transaction data
-│   │   └── 03_invoices.csv        # Sample invoice data
-│   ├── seeders/
-│   │   ├── load_customers.js      # Customer data seeder
-│   │   ├── load_transactions.js   # Transaction data seeder
-│   │   ├── load_invoices.js       # Invoice data seeder
-│   │   └── run_uploads.js         # Execute all seeders
-│   └── index.js                   # Express server and API routes
-├── js/
-│   └── app.js                     # Frontend JavaScript logic
-├── docs/
-│   ├── financial_management_db.sql # Database schema
-│   └── modelo relacional.png      # Database relationship diagram
-├── index.html                     # Main HTML file
-├── package.json                   # Node.js dependencies
-└── README.md                      # This file
-
 ## 🎯 Usage
 
 ### Adding a Customer
