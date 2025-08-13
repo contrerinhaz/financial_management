@@ -149,7 +149,7 @@ curl http://localhost:3005/customers
 
 ## 📁 Project Structure
 
-\`\`\`
+
 financial-management-system/
 ├── server/
 │   ├── db/
@@ -172,7 +172,6 @@ financial-management-system/
 ├── index.html                     # Main HTML file
 ├── package.json                   # Node.js dependencies
 └── README.md                      # This file
-\`\`\`
 
 ## 🎯 Usage
 
